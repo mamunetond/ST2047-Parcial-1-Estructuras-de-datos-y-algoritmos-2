@@ -1,2 +1,2 @@
-# ST2047-Estructuras-de-datos-y-algoritmos-2
-Repositorio para la materia estructura de datos y algoritmos 2
+# ST2047 Parcial 1 - Estructuras-de-datos-y-algoritmos-2
+Desarrollo Parcial 1 Estructrura de datos y algoritmos 2
